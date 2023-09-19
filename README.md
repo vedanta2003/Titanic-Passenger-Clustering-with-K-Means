@@ -80,8 +80,8 @@ After running the code within the notebook, you will obtain visualizations that 
 
 ## Author
 
-- Your Name
-- GitHub: [Your GitHub Profile](https://github.com/vedanta2003)
+- Vedanta Yadav
+- GitHub: [vedanta2003](https://github.com/vedanta2003)
 
 Feel free to reach out if you have any questions or suggestions.
 ```
