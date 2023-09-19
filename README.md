@@ -1,5 +1,3 @@
-# Titanic-Passenger-Clustering-with-K-Means
-
 
 # Titanic Passenger Clustering with K-Means
 
