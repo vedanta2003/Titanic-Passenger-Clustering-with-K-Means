@@ -3,7 +3,7 @@
 ```markdown
 # Titanic Passenger Clustering with K-Means
 
-This project demonstrates the use of K-Means clustering to analyze the Titanic passenger dataset. It includes data preprocessing, model training, and visualization of clusters.
+This Jupyter Notebook demonstrates the use of K-Means clustering to analyze the Titanic passenger dataset. It includes data preprocessing, model training, and visualization of clusters.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -29,11 +29,18 @@ Before running the code, ensure you have the following libraries installed:
 - scikit-learn
 - matplotlib
 - numpy
+- Jupyter Notebook
 
 You can install these dependencies using pip:
 
 ```bash
 pip install pandas scikit-learn matplotlib numpy
+```
+
+You should also have Jupyter Notebook installed. If not, you can install it using:
+
+```bash
+pip install notebook
 ```
 
 ## Usage
@@ -52,27 +59,26 @@ Follow these steps to use the code:
    cd your-repo
    ```
 
-3. Run the code:
+3. Start Jupyter Notebook:
 
    ```bash
-   python main.py
+   jupyter notebook
    ```
 
-The code will perform K-Means clustering on the Titanic passenger data and display visualizations of the clusters.
+4. Open the `KMeans_Clustering_Titanic.ipynb` notebook in Jupyter Notebook.
+
+5. Run the code cells within the notebook to perform K-Means clustering on the Titanic passenger data and view visualizations of the clusters.
 
 ## Code Structure
 
 The project's directory structure is as follows:
 
-- `main.py`: Main script to run the K-Means clustering on Titanic data.
-- `preprocessing.py`: Contains data preprocessing steps using scikit-learn transformers.
-- `visualization.py`: Includes functions for generating cluster visualizations.
+- `KMeans_Clustering_Titanic.ipynb`: Jupyter Notebook containing the code and explanations.
 - `data/`: Directory containing the Titanic passenger data files.
 
 ## Results
 
-After running the code, you will obtain visualizations that show how passengers are clustered based on age, fare, and other features. You can analyze these clusters to gain insights into the data.
-
+After running the code within the notebook, you will obtain visualizations that show how passengers are clustered based on age, fare, and other features. You can analyze these clusters to gain insights into the data.
 
 ## Author
 
@@ -81,3 +87,4 @@ After running the code, you will obtain visualizations that show how passengers 
 
 Feel free to reach out if you have any questions or suggestions.
 ```
+
