@@ -50,13 +50,13 @@ Follow these steps to use the code:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/vedanta2003/Titanic-Passenger-Clustering-with-K-Means.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd Titanic-Passenger-Clustering-with-K-Means
    ```
 
 3. Start Jupyter Notebook:
