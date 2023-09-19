@@ -11,7 +11,6 @@ This project demonstrates the use of K-Means clustering to analyze the Titanic p
 - [Usage](#usage)
 - [Code Structure](#code-structure)
 - [Results](#results)
-- [License](#license)
 - [Author](#author)
 
 ## Introduction
